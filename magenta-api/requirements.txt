@@ -1,0 +1,6 @@
+flask
+tensorflow==2.14.0
+magenta
+flask-cors
+flask-ngrok
+protobuf<4.0.0
